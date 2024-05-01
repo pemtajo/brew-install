@@ -253,6 +253,7 @@ if "$help"; then
 	 -h, -?, --help      Print this help message and exit
 
 	Programs provided by :deps alias:
+	 -X:deps aliases           List available aliases and their source
 	 -X:deps list              List full transitive deps set and licenses
 	 -X:deps tree              Print deps tree
 	 -X:deps find-versions     Find available versions of a library
