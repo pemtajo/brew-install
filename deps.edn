@@ -2,14 +2,14 @@
 
  :deps
  {org.clojure/clojure {:mvn/version "1.11.3"}
-  org.clojure/tools.deps {:mvn/version "0.19.1428"}
+  org.clojure/tools.deps {:mvn/version "0.19.1432"}
   org.slf4j/slf4j-nop {:mvn/version "1.7.36"}}
 
  :aliases
  {
   ;; clj -T:build release
   :build    
-  {:deps {io.github.clojure/tools.build {:git/tag "v0.10.0" :git/sha "3a2c484"}}
+  {:deps {io.github.clojure/tools.build {:git/tag "v0.10.3" :git/sha "15ead66"}}
    :paths ["script"]
    :ns-default build}
   

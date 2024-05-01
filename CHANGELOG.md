@@ -9,6 +9,7 @@ Prerelease versions:
 
 * next
   * Update list of :deps programs in help
+  * Update to latest tools.deps.cli, tools.deps, and tools.build
 
 **Current stable version:**
 
