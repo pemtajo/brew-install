@@ -9,7 +9,7 @@
  {
   ;; clj -T:build release
   :build    
-  {:deps {io.github.clojure/tools.build {:git/tag "v0.10.3" :git/sha "15ead66"}}
+  {:deps {io.github.clojure/tools.build {:git/tag "v0.10.4" :git/sha "31388ff"}}
    :paths ["script"]
    :ns-default build}
   
